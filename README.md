@@ -1,0 +1,1 @@
+# sequence_detector_using_verilog
